@@ -1,4 +1,4 @@
-## Hi there 👋 I’m looking to collaborate a company
+## Hi there 👋 Welcome to my GitHub Prolife!
 
 <!--
 **OgMarques/OgMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
